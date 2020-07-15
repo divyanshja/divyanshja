@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there 👋 My self Divyansh Jain. I am currently working as a Software Engineer At Thales Ind Pvt Ltd. I am currently learning Data science. I am looking to collaborate on Machine Learning and AI Projects. 
 
 <!--
 **divyanshja/divyanshja** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
