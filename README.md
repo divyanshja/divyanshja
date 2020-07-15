@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 
-##### My self Divyansh Jain. I am currently working as a Software Engineer At Thales Ind Pvt Ltd (https://www.thalesgroup.com/). And I am Web Developer at SeemaMotorSports [https://www.seemamotorsports.com/]
+##### My self Divyansh Jain. I am currently working as a Software Engineer At Thales Ind Pvt Ltd (https://www.thalesgroup.com/). And I am also Web Developer at SeemaMotorSports [https://www.seemamotorsports.com/]
 ##### I am currently learning Data science, Python, React.js.
 ##### I am always intrested to talk about Web Development and Data Science.
 
